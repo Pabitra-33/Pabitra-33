@@ -24,7 +24,7 @@
 
 - 📫 How to reach me : kumarpabitra345@gmail.com 📧
 
-<h3 align="left">🥨Connect with me:</h3>
+<h3 align="left">🥨Connect with me:</h3><br>
 <p align="left">
 <a href="https://twitter.com/@pabitrasah83979" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@pabitrasah83979" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/in/pabitra-kumar-sahoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/pabitra-kumar-sahoo" height="30" width="40" /></a>
@@ -38,7 +38,7 @@
 
 <img align="left" src="https://raw.githubusercontent.com/ankitpriyarup/ankitpriyarup/master/coder.gif" alt="happy coder" height="350" width="600"><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
-<br><br>
+<br>
 
 <h2 align="left"> 😎 Describe About Me </h2>
 <p align="left">
