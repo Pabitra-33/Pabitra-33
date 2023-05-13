@@ -81,13 +81,13 @@
 </p><br>
 
 <h2>📈GitHub Stats</h2>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pabitra-33&show_icons=true&locale=en" alt="pabitra-33"  height="400" width="700"/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pabitra-33" alt="pabitra-33" height="400" width="700"/></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pabitra-33&show_icons=true&locale=en&layout=compact" alt="pabitra-33" height="400" width="700"/></p><br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pabitra-33&show_icons=true&locale=en" alt="pabitra-33"  height="285" width="700"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pabitra-33" alt="pabitra-33" height="270" width="700"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pabitra-33&show_icons=true&locale=en&layout=compact" alt="pabitra-33" height="320" width="700"/></p><br>
 
 
 <h3>🏆GitHub Trophies'</h3><hr>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pabitra-33" alt="pabitra-33" /></a> </p><br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pabitra-33" alt="pabitra-33" /></a> </p>
 
 <h3>Thanks😊 for Visiting my GitHub Profile👾</h3><hr>
 <img src="https://camo.githubusercontent.com/15860c87f630f725d369c3eb990d9ecde1d142b194dcc8eaf6a9582c062db64d/68747470733a2f2f6368696e6d6179616b756d617262697377616c2e6769746875622e696f2f6368696e6d6179616b756d617262697377616c2f736e616b652e737667" alt="snake" height="250" width="900"/>
