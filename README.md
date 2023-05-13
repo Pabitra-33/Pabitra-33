@@ -22,9 +22,10 @@
 
 - ⚡ Fun fact I am funny😁😜.
 
-- 📫 How to reach me : kumarpabitra345@gmail.com 📧
+- 📫 How to reach me : pmpabitra339@gmail.com 📧
+<br>
 
-<h3 align="left">🥨Connect with me:</h3><br>
+<h3 align="left">🥨Connect with me:</h3><hr><br>
 <p align="left">
 <a href="https://twitter.com/@pabitrasah83979" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@pabitrasah83979" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/in/pabitra-kumar-sahoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/pabitra-kumar-sahoo" height="30" width="40" /></a>
@@ -37,12 +38,13 @@
 <br><br>
 
 <img align="left" src="https://raw.githubusercontent.com/ankitpriyarup/ankitpriyarup/master/coder.gif" alt="happy coder" height="350" width="600"><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
+<br>
 <br>
 
 <h2 align="left"> 😎 Describe About Me </h2>
 <p align="left">
-⚡ I am currently pursuing Master of Computer Application from Centurion University of Technology and Management , BhuBaneswar, Odisha .<br>
+⚡ I am currently pursuing Master of Computer Application at Centurion University of Technology and Management , Bhubaneswar, Odisha.<br>
 ⚡ I am looking for growth. Currently, I’m looking for for internships and research projects in the field of Software Technology and to build up my career and skills.</p><br>
 
 <h3 align="left">⚓Tech. Language and Tools</h3><hr>
@@ -56,15 +58,17 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a><br><hr>
+
+<h4> Administration Tool </h4>
 <a href="https://www.phpmyadmin.net" target="_blank" rel="noreferrer"> <img src="https://wisdmlabs.com/site/wp-content/uploads/2015/09/phpmyadmin-logo.png" alt="phpMyAdmin" width="75" height="50"/> </a><br><hr>
 
 <h4>Hosting/Saas </h4>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a><br> <hr>
 
 <h4>Frameworks,Platform & Libraries</h4>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.anaconda.com" target="_blank" rel="noreferrer"> <img src="https://assets.anaconda.com/production/anaconda-meta.jpg?w=1200&h=630&q=82&auto=format&fit=clip&dm=1632326952&s=2b336a00fa13405f84ce2f5b74e21fee" alt="anaconda" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><br><hr>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>&nbsp;&nbsp; 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>&nbsp;&nbsp
+<a href="https://www.anaconda.com" target="_blank" rel="noreferrer"> <img src="https://www.webpronews.com/wp-content/uploads/2021/05/Anaconda.jpg" alt="anaconda" width="90" height="45"/></a><br><hr>
 
 <h4>Servers</h4>
 <a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer"> <img src="https://static.javatpoint.com/tutorial/xampp/images/xampp-tutorial.png" alt="xampp" width="40" height="40"/> </a><br><hr>
