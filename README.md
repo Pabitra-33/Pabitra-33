@@ -38,10 +38,14 @@
 <br><br>
 
 <img align="left" src="https://raw.githubusercontent.com/ankitpriyarup/ankitpriyarup/master/coder.gif" alt="happy coder" height="350" width="600"><br><br><br><br>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br>
+<br>
+<br>
+<br><br>
 <br>
 <br>
 <br>
+<br><br>
 
 <h2 align="left"> 😎 Describe About Me </h2>
 <p align="left">
