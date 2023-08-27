@@ -1,7 +1,7 @@
 ![logo](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)
 
 <h1 align="center">💫 Hi There,I'm Pabitra Kumar Sahoo 🙂.</h1>
-<h3 align="center">A passionate Frontend Developer 👨‍💻 from India .</h3>
+<h3 align="center">A passionate Software Developer 👨‍💻 from India .</h3>
 
 <p align="left">❤<img src="https://komarev.com/ghpvc/?username=pabitra-33&label=Profile%20views&color=0e75b6&style=flat" alt="pabitra-33" /> </p>
 
