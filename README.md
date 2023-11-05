@@ -1,22 +1,21 @@
 ![logo](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)
 
-<h1 align="center">💫 Hi There,I'm Pabitra Kumar Sahoo 🙂.</h1>
-<h3 align="center">A passionate Software Developer 👨‍💻 from India .</h3>
+<h1 align="center">💫 Hi There..,I'm Pabitra Kumar Sahoo 🙂.</h1>
+<h3 align="center">A Passionate Software Developer👨‍💻 from India.</h3>
 
 <p align="left">❤<img src="https://komarev.com/ghpvc/?username=pabitra-33&label=Profile%20views&color=0e75b6&style=flat" alt="pabitra-33" /> </p>
 
 <img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="coding" height ="400" width="400">
 
-
 <p align="left"> <a href="https://twitter.com/@pabitrasah83979" target="blank"><img src="https://img.shields.io/twitter/follow/@pabitrasah83979?logo=twitter&style=for-the-badge" alt="@pabitrasah83979" /></a> </p>
 
-- 🔭 I'm currently a Student .
+- 🔭 I'm currently a Master's Student.
 
-- 🌱 I’m currently learning Java Frameworks and Software Technology.
+- 🌱 Currently learning Java Frameworks, developing coding skills and Software Technology.
 
 - 🤔 I’m looking for for internships and research projects in the field of Software Technology.
 
-- 💬 Ask me about Java, AWS or any tech related to Software 👨‍💻.
+- 💬 Ask me about Java,Python and AWS or any tech related to Software.
 
 - 🤵 Pronouns: He/His
 
@@ -49,8 +48,8 @@
 
 <h2 align="left"> 😎 Describe About Me </h2>
 <p align="left">
-⚡ I am currently pursuing Master of Computer Application at Centurion University of Technology and Management , Bhubaneswar, Odisha.<br>
-⚡ I am looking for growth. Currently, I’m looking for for internships and research projects in the field of Software Technology and to build up my career and skills.</p><br>
+⚡ I am Currently pursuing my Master's degree at CUTM, Bhubaneswar, Odisha.<br>
+⚡ Looking for Internships and job at a good place where i can gain knowledge by working on research projects and real-life projects and give best of my abilities to growth my career jourey.</p><br>
 
 <h3 align="left">⚓Tech. Language and Tools</h3><hr>
 <p align="left"> 
@@ -70,19 +69,19 @@
 <h4>Hosting/Saas </h4>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a><br> <hr>
 
-<h4>Frameworks,Platform & Libraries</h4>
+<h4>Frameworks,Platform & version Control</h4>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQfq8oCEO6js92dOkY7DjGXTPKdW6LSmnz_w&usqp=CAU" alt="spring" width="40" height="40"/></a>&nbsp;&nbsp; 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>&nbsp;&nbsp; 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>&nbsp;&nbsp
-<a href="https://www.anaconda.com" target="_blank" rel="noreferrer"> <img src="https://www.webpronews.com/wp-content/uploads/2021/05/Anaconda.jpg" alt="anaconda" width="90" height="45"/></a><br><hr>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfu1mi6LAfuv1HSVFYUtOVgBsIB5f96Ui_Xw&usqp=CAU" alt="github" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.anaconda.com" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/612/791/png-clipart-anaconda-pip-installation-python-anaconda-animals-text-thumbnail.png" alt="anaconda" width="90" height="45"/></a><br><hr>
 
 <h4>Servers</h4>
-<a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer"> <img src="https://static.javatpoint.com/tutorial/xampp/images/xampp-tutorial.png" alt="xampp" width="40" height="40"/> </a><br><hr>
+<a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer"> <img src="https://static.javatpoint.com/tutorial/xampp/images/xampp-tutorial.png" alt="xampp" width="40"></a>&nbsp;&nbsp;
+<a href="https://tomcat.apache.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIOGuin0TGv_Pqxng__XT6xDmwbHkbaRy3Bg&usqp=CAU" alt="Tomcat" width="40" height="40"/> </a><br><hr>
 
 <h4>Databases</h4>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <br><hr>
-
-<h4>ML/DV</h4>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" width="40" height="40"/></a><br><hr>
 
 <h4>Other's </h4>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
@@ -90,14 +89,14 @@
 </p><br>
 
 <h2>📈GitHub Stats</h2>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pabitra-33&show_icons=true&locale=en" alt="pabitra-33"  height="285" width="700"/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pabitra-33" alt="pabitra-33" height="270" width="700"/></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pabitra-33&show_icons=true&locale=en&layout=compact" alt="pabitra-33" height="320" width="700"/></p><br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pabitra-33&theme=vision-friendly-dark&show_icons=true&locale=en" alt="pabitra-33"  height="270" width="650"/></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=pabitra-33&theme=vision-friendly-dark" alt="pabitra-33" height="270" width="650"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pabitra-33&theme=vision-friendly-dark&show_icons=true&locale=en&layout=compact" alt="pabitra-33" height="340" width="630"/></p><br>
 
 
 <h3>🏆GitHub Trophies'</h3><hr>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pabitra-33" alt="pabitra-33" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pabitra-33&theme=cobalt" alt="pabitra-33" /></a> </p>
 
 <h3>Thanks😊 for Visiting my GitHub Profile👾</h3><hr>
-<img src="https://camo.githubusercontent.com/15860c87f630f725d369c3eb990d9ecde1d142b194dcc8eaf6a9582c062db64d/68747470733a2f2f6368696e6d6179616b756d617262697377616c2e6769746875622e696f2f6368696e6d6179616b756d617262697377616c2f736e616b652e737667" alt="snake" height="250" width="900"/>
+<img src="https://camo.githubusercontent.com/15860c87f630f725d369c3eb990d9ecde1d142b194dcc8eaf6a9582c062db64d/68747470733a2f2f6368696e6d6179616b756d617262697377616c2e6769746875622e696f2f6368696e6d6179616b756d617262697377616c2f736e616b652e737667" alt="snake" height="220" width="1045"/>
 
