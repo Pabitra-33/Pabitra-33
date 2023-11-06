@@ -11,7 +11,7 @@
 
 - 🔭 I'm currently a Master's Student.
 
-- 🌱 Currently learning Java Frameworks, developing coding skills and Software Technology.
+- 🌱 Currently i am learning Java Frameworks, developing my coding skills and new Software Technology.
 
 - 🤔 I’m looking for for internships and research projects in the field of Software Technology.
 
@@ -36,7 +36,7 @@
 </p>
 <br><br>
 
-<img align="left" src="https://raw.githubusercontent.com/ankitpriyarup/ankitpriyarup/master/coder.gif" alt="happy coder" height="350" width="600"><br><br><br><br>
+<img align="left" src="https://raw.githubusercontent.com/ankitpriyarup/ankitpriyarup/master/coder.gif" alt="happy coder photo" height="365" width="630"><br><br><br><br>
 <br><br><br><br>
 <br>
 <br>
@@ -44,7 +44,6 @@
 <br>
 <br>
 <br>
-<br><br>
 
 <h2 align="left"> 😎 Describe About Me </h2>
 <p align="left">
