@@ -1,6 +1,6 @@
 ![logo](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)
 
-<h1 align="center">💫 Hi There..,I'm Pabitra Kumar Sahoo 🙂.</h1>
+<h1 align="center">💫Hi There..,I am Pabitra Kumar Sahoo 🙂.</h1>
 <h3 align="center">A Passionate Software Developer👨‍💻 from India.</h3>
 
 <p align="left">❤<img src="https://komarev.com/ghpvc/?username=pabitra-33&label=Profile%20views&color=0e75b6&style=flat" alt="pabitra-33" /> </p>
@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/@pabitrasah83979" target="blank"><img src="https://img.shields.io/twitter/follow/@pabitrasah83979?logo=twitter&style=for-the-badge" alt="@pabitrasah83979" /></a> </p>
 
-- 🔭 I'm currently a Master's Student.
+- 🔭 I am pursuing my Master's degree in final year.
 
-- 🌱 Currently i am learning Java Frameworks, developing my coding skills and new Software Technology.
+- 🌱 Currently i am learning Java Frameworks, upskill my coding skills and learning new Software Technology.
 
-- 🤔 I’m looking for for internships and research projects in the field of Software Technology.
+- 🤔 I am looking for for internships and research projects in the field of Software Technology.
 
-- 💬 Ask me about Java,Python and AWS or any tech related to Software.
+- 💬 Ask me about Java, Python and AWS or any tech related to Software.
 
 - 🤵 Pronouns: He/His
 
@@ -47,8 +47,8 @@
 
 <h2 align="left"> 😎 Describe About Me </h2>
 <p align="left">
-⚡ I am Currently pursuing my Master's degree at CUTM, Bhubaneswar, Odisha.<br>
-⚡ Looking for Internships and job at a good place where i can gain knowledge by working on research projects and real-life projects and give best of my abilities to growth my career jourey.</p><br>
+⚡ I am Currently pursuing my Master's degree at Centurion University Of Technology And Management, Bhubaneswar, Odisha.<br>
+⚡ Looking for Internships and job at a good place where i can gain knowledge by working on real-life projects and give best of my abilities to growth my career jourey.</p><br>
 
 <h3 align="left">⚓Tech. Language and Tools</h3><hr>
 <p align="left"> 
