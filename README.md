@@ -45,13 +45,13 @@
 <br>
 <br><br><br>
 
-<h2 align="left"> 😎 Describe About Me </h2>
+<h2 align="left"> 😎 Describe About Me </h2><br>
 <p align="left">
 ⚡ I am Currently pursuing my Master's degree at Centurion University Of Technology And Management, Bhubaneswar, Odisha.<br>
 ⚡ Looking for Internships and job at a good place where i can gain knowledge by working on real-life projects and give best of my abilities to growth my career jourey.</p><br>
 
 <h3 align="left">⚓Tech. Language and Tools</h3><hr>
-<p align="left"> 
+<p align="left">
 <h4>Languages </h4>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
