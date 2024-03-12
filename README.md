@@ -7,7 +7,7 @@
 
 <img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="coding" height ="400" width="400">
 
-<p align="left"> <a href="https://x.com/Pabitra_Sahoo30?t=fysgYkT-ntrXA7s2dvR5MA&s=09" target="blank"><img src="https://images.app.goo.gl/rAeQfSbcxDTQQMzG8" alt="@Pabitra_Sahoo30" /></a> </p>
+<p align="left"> <a href="https://x.com/Pabitra_Sahoo30?t=fysgYkT-ntrXA7s2dvR5MA&s=09" target="blank"><img src="![image](https://github.com/Pabitra-33/Pabitra-33/assets/112860906/55002a69-d57c-47a6-a3f6-b57c695dce2a)" /></a> </p>
 
 - 🔭 I am pursuing my Master's degree in final year.
 
