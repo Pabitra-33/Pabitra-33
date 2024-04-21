@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://x.com/Pabitra_Sahoo30?t=fysgYkT-ntrXA7s2dvR5MA&s=09" target="blank"><img src="![image](https://github.com/Pabitra-33/Pabitra-33/assets/112860906/55002a69-d57c-47a6-a3f6-b57c695dce2a)" /></a> </p>
 
-- 🔭 I am pursuing my Master's degree in final year.
+- 🔭 I am pursuing my Master's degree in final year, going to end in summer 2024.
 
-- 🌱 Currently i am learning Java Frameworks, upskill my coding skills and learning new Software Technology.
+- 🌱 Currently i am learning Java Frameworks, JS frameworks, upskill my coding skills by learning new Software Technology.
 
-- 🤔 I am looking for for internships and research projects in the field of Software Technology.
+- 🤔 I am looking for for internships and research projects in the field of Software Technology/Software Development.
 
 - 💬 Ask me about Java, Python and AWS or any tech related to Software.
 
@@ -47,15 +47,15 @@
 
 <h2 align="left"> 😎 Describe About Me </h2><br>
 <p align="left">
-⚡ I am Currently pursuing my Master's degree at Centurion University Of Technology And Management, Bhubaneswar, Odisha.<br>
-⚡ Looking for Internships and job at a good place where i can gain knowledge by working on real-life projects and give best of my abilities to growth my career jourey.</p><br>
+⚡ I am Currently pursuing my Master's degree in Computer Application at Centurion University Of Technology And Management, Bhubaneswar, Odisha.<br>
+⚡ I am looking for Internships and job at a good place where i can gain knowledge by working on real-life projects and give best of my abilities for the companies Growth.</p><br>
 
 <h3 align="left">⚓Tech. Language and Tools</h3><hr>
 <p align="left">
 <h4>Languages </h4>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -83,8 +83,10 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <br><hr>
 
 <h4>Other's </h4>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/postman2461.jpg" alt="Postman" width="73" height="37"/> </a>  
+</p>
+<a href="https://www.docker.com/"> <img src ="https://seekvectorlogo.com/wp-content/uploads/2018/12/docker-vector-logo.png"alt="Postman" width="40" height="40"/> </a>  
 </p><br>
 
 <h2>📈GitHub Stats</h2>
