@@ -62,9 +62,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a><br><hr>
 
-<h4> Administration Tool </h4>
-<a href="https://www.phpmyadmin.net" target="_blank" rel="noreferrer"> <img src="https://wisdmlabs.com/site/wp-content/uploads/2015/09/phpmyadmin-logo.png" alt="phpMyAdmin" width="75" height="50"/> </a><br><hr>
-
 <h4>Hosting/Saas </h4>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a><br> <hr>
 
