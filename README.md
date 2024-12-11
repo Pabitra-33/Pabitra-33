@@ -81,10 +81,8 @@
 
 <h4>Other's </h4>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/postman2461.jpg" alt="Postman" width="73" height="37"/> </a>  
-</p>
-<a href="https://www.docker.com/"> <img src ="https://seekvectorlogo.com/wp-content/uploads/2018/12/docker-vector-logo.png"alt="Postman" width="40" height="40"/> </a>  
-</p><br>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/postman2461.jpg" alt="Postman" width="73" height="37"/> </a>
+<a href="https://www.docker.com/"> <img src ="https://seekvectorlogo.com/wp-content/uploads/2018/12/docker-vector-logo.png" alt="docker" width="40" height="40"/> </a> <br>
 
 <h2>📈GitHub Stats</h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pabitra-33&theme=vision-friendly-dark&show_icons=true&locale=en" alt="pabitra-33"  height="270" width="650"/></p>
