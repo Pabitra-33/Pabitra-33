@@ -1,7 +1,7 @@
 ![logo](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)
 
 <h1 align="center">💫Hi there..,I am Pabitra Kumar Sahoo🙂</h1>
-<h4 align="center">A Passionate Software Developer from India</h4>
+<h3 align="center">A Passionate Software Developer from India</h3>
 
 <p align="left">❤<img src="https://komarev.com/ghpvc/?username=pabitra-33&label=Profile%20views&color=0e75b6&style=flat" alt="pabitra-33" /><br></p>
 Hello I am Pabitra👋..Welcome to my GitHub profile! I'm a passionate developer always looking to learn new technologies and improve my skills.
@@ -54,7 +54,7 @@ I am currently exploring:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pabitra-33&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Pabitra-33&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/pabitra_33) 
