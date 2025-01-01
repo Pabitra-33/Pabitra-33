@@ -7,24 +7,25 @@
 Hello I am Pabitra👋..Welcome to my GitHub profile! I'm a passionate developer always looking to learn new technologies and improve my skills.
   
 # 💫 About Me:
-🔭 I am currently pusuing Java Full-Stack Development training at Jspider.<br>
-👭 I am looking to collaborate on the new project ideas to learn, develop and grow.<br>
-🤝 I am looking for help with internship, jobs and research projects in the field of Software Technology/Development.<br>
-💬Ask me about Software Technologies like Java, C, AWS and web development related to softwares.<br>
-⚡ Fun fact : I am funny😁.
+🔭 I am currently pusuing: Training on Java Full-Stack Development at Jspider.<br>
+
+👭 I am looking to collaborate: on Fullstack project to learn, develop and grow.<br>
+
+🤝 I am looking for: internship, jobs and research projects in the field of Software Technology/Development.<br>
+
+💬Ask me about: Java, C, Python, AWS, web development and general software development questions.<br>
+
+⚡ Fun fact : I love photography and i am funny😁.
 
 ## 🌱 What I'm Learning
-
 I am currently exploring:
-
 - Advanced Java Concepts and frameworks.
 - JavaScript libraries and frameworks.
 - Cloud services and deployment with AWS.
 
-## 🌐 How to Reach Me:
-- Linkedin: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pabitra-kumar1412/) 
-- Stack Overflow: [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21665884/pabitra-kumar)
-- Email: pabitraconnect.12@gmail.com
+## 🌐Reach Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pabitra-kumar1412/) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21665884/pabitra-kumar)
 
 # 💻 Tech Stack:
 #  Languages
