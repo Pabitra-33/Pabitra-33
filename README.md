@@ -1,6 +1,6 @@
 ![logo](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)
 
-<h1 align="center">💫Hi there..,I am Pabitra Kumar Sahoo🙂</h1>
+<h1 align="center">🙋‍♂️ Hi there..,I am Pabitra Kumar Sahoo</h1>
 <h3 align="center">A Passionate Software Developer from India</h3>
 
 <p align="left">❤<img src="https://komarev.com/ghpvc/?username=pabitra-33&label=Profile%20views&color=0e75b6&style=flat" alt="pabitra-33" /></p><br>
@@ -52,10 +52,10 @@ I am currently exploring:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Pabitra-33&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+## 👨‍💻 Today's Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Pabitra-33&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
 ## 💰 You can help me by Donating
@@ -63,4 +63,4 @@ I am currently exploring:
 
 [![](https://visitcount.itsvg.in/api?id=Pabitra-33&icon=7&color=0)](https://visitcount.itsvg.in)
 
-<b> Thank you for visiting my profile! Feel free to check out my repositories and get in touch with me! </b>
+<h3> 👏 Thank you for visiting my profile! Feel free to check out my repositories and get in touch with me! </h3>
