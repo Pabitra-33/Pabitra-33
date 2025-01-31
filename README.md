@@ -8,7 +8,7 @@
 Welcome to my GitHub profile! Hello I am Pabitra👋. I'm a passionate developer always looking to learn new technologies and improve my skills.
   
 # 💫 About Me:
-🔭 I am currently pusuing: Training on Java Full-Stack Development at Jspider.<br>
+🔭 I am currently pusuing: Java Full-Stack Development Training at Jspider.<br>
 
 👭 I am looking to collaborate: on Fullstack project to learn, develop and grow.<br>
 
