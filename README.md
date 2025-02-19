@@ -1,11 +1,11 @@
 ![logo](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)
 
-<h1 align="center">🙋‍♂️ Hi there..,I am Pabitra Kumar Sahoo</h1>
+<h1 align="center">🙋‍♂️ Hi there...,I am Pabitra Kumar Sahoo</h1>
 <h3 align="center">A Passionate Software Developer from India</h3>
 
 <p align="left">❤<img src="https://komarev.com/ghpvc/?username=pabitra-33&label=Profile%20views&color=0e75b6&style=flat" alt="pabitra-33" /></p><br>
 
-<h3>Welcome to my GitHub profile! Hello I am Pabitra👋. I'm a passionate developer always looking to learn new technologies and improve my skills.</h3>
+<h3>Welcome to my GitHub profile! I am Pabitra👋. I'm a passionate developer always looking to learn new technologies and improve my skills.</h3>
   
 # 💫 About Me:
 🔭 I am currently pusuing: Java Full-Stack Development Training at Jspider.<br>
@@ -16,7 +16,7 @@
 
 💬Ask me about: Java, C, Python, AWS, web development and general software development questions.<br>
 
-⚡ Fun fact : I love photography and i am funny😁.
+⚡ Fun fact : I am funny😁 and love photography.
 
 ## 🌱 What I'm Learning
 I am currently exploring:
