@@ -8,9 +8,8 @@
 <h3>Welcome to my GitHub profile! I'm a passionate developer always looking to learn new technologies and improve my skills.</h3>
   
 # 💫 About Me:
-🔭 I am currently pusuing: Java Full-Stack Development Training at Jspider.<br>
 
-👭 I am looking to collaborate: on Fullstack project to learn, develop and grow.<br>
+👭 I am looking to collaborate on Fullstack project to learn, develop and grow.<br>
 
 🤝 I am looking for: internship, jobs and research projects in the field of Software Technology/Development.<br>
 
@@ -20,6 +19,7 @@
 
 ## 🌱 What I'm Learning
 I am currently exploring:
+- Kafka(Distributed System) and Micro-Services.
 - Advanced Java Concepts and frameworks like Java-8 features, Hibernate and SpringBoot.
 - JavaScript libraries and frameworks like ReactJs.
 - Cloud services and deployment with AWS.
