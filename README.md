@@ -28,19 +28,17 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3> 
+<h3 align="left">👩‍💻 <u> About Me </u> </h3>
 
 
 ###
 
 <p align="left">I am a Passionate Software Developer from India 🌍.<br><br>- 🔭 I’m working on scalable Java Spring-based Projects.<br><br>- 📚 I'm currently learning Spring Security, Microservices and Kafka.<br><br>- ⚡ In my free time I wants to contribute to open source projects and write tech blogs.<br><br>- 🥏 I’m looking for help with real-time scalable projects to learn and grow.<br><br>- 💬  Ask me about Java, Spring, Web Development and Backend Development.<br><br>- 📧 Reach me: reachpk23@gmail.com</p>
+<br>
 
-###
 
 <h3 align="left">🛠 Language and tools</h3>
-
-###
-###
+<hr>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -88,9 +86,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
-###
+<br>
 
-<h3 align="left">📊   My Github Stats :</h3>
+<h3 align="left">📊   My Github Stats :</h3> <hr>
 
 ###
 
