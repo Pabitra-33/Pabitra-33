@@ -1,123 +1,139 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+![Banner](https://raw.githubusercontent.com/your-username/your-username/main/assets/banner.png)
 
-###
+# Hi there 👋, I'm Pabitra Kumar Sahoo  
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/pabitra-kumar1412/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/pmpabitra339" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/29970167/pabitra-kumar" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
-  </a>
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0CF7E6&width=500&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+SQL;Problem+Solver+%7C+Lifelong+Learner;Open+Source+Contributor)](https://git.io/typing-svg)  
 
-###
+💻 Java Full Stack Developer | 🚀 Spring Boot & React Enthusiast | 🌱 Lifelong Learner  
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Pabitra-33.Pabitra-33&right_color=aqua"  />
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat)  
+![Visitor Count](https://profile-counter.glitch.me/your-username/count.svg)
 
-###
+---
 
-<h1 align="center">Hi there...👋 I'm Pabitra Kumar Sahoo</h1>
+## 🙋‍♂️ About Me
+- 🔭 I’m currently working on **Spring Boot Microservices & Full Stack Projects**
+- 🌱 I’m currently learning:
+  - Advanced **Spring Boot & Microservices Architecture**
+  - **React Hooks** and modern frontend patterns
+  - **Cloud Technologies** (AWS, Docker, Kubernetes)
+  - **System Design & Scalability**
+- 👯 I’m looking to collaborate on **Open Source & Java-based Full Stack projects**
+- 🤝 I’m looking for help with:
+  - Building scalable **Java Spring Boot Microservices**
+  - Best practices in **Full Stack Development (React + Spring Boot)**
+  - Exploring **Cloud Deployment (AWS, Docker, Kubernetes)**
+  - Contributing to **Open Source Java projects**
+- 💬 Ask me about **Java, Spring Boot, React, SQL, and REST APIs**
+- ⚡ Fun fact: *Turning coffee into clean, scalable code*
 
-###
+---
 
-<h3 align="left">👩‍💻 <u> About Me </u> </h3>
+## 🚀 Tech Stack
 
+### 💻 Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-4285F4?style=for-the-badge&logo=cloud&logoColor=white)
 
-###
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<p align="left">I am a Passionate Software Developer from India 🌍.<br><br>- 🔭 I’m working on scalable Java Spring-based Projects.<br><br>- 📚 I'm currently learning Spring Security, Microservices and Kafka.<br><br>- ⚡ In my free time I wants to contribute to open source projects and write tech blogs.<br><br>- 🥏 I’m looking for help with real-time scalable projects to learn and grow.<br><br>- 💬  Ask me about Java, Spring, Web Development and Backend Development.<br><br>- 📧 Reach me: reachpk23@gmail.com</p>
-<br>
+### 🛢 Database
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### ⚙️ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<h3 align="left">🛠 Language and tools</h3>
-<hr>
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="40" alt="tomcat logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-</div>
+## 📊 Skills Overview (Combined Chart)
+![Combined Skills Chart](https://quickchart.io/chart?bkg=white&c={
+  type:'matrix',
+  data:{datasets:[]},
+  options:{
+    layout:{padding:20},
+    plugins:{datalabels:{display:false}},
+    charts:[
+      {
+        type:'radar',
+        data:{
+          labels:['Java','Spring Boot','React','Docker','Kubernetes','SQL'],
+          datasets:[{label:'Skill Level',data:[90,85,75,70,65,80],fill:true,backgroundColor:'rgba(54,162,235,0.2)',borderColor:'rgb(54,162,235)'}]
+        }
+      },
+      {
+        type:'bar',
+        data:{
+          labels:['Java','Spring Boot','React','SQL','Docker','Kubernetes'],
+          datasets:[{label:'Proficiency (%)',data:[90,85,80,75,70,65],backgroundColor:'rgba(255,99,132,0.6)'}]
+        },
+        options:{scales:{y:{beginAtZero:true,max:100}}}
+      },
+      {
+        type:'pie',
+        data:{
+          labels:['Backend','Frontend','Database','DevOps','Design'],
+          datasets:[{data:[40,25,15,15,5],backgroundColor:['#36A2EB','#FF6384','#FFCE56','#4BC0C0','#9966FF']}]
+        }
+      }
+    ]
+  }
+})
 
-<br>
+---
 
-<h3 align="left">📊   My Github Stats :</h3> <hr>
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-###
+---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Pabitra-33&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+## 📊 GitHub Stats
+![Pabitra's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
 
-###
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pabitra-33&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pabitra-33&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+![GitHub Streak](https://streak-stats.demolab.com/?user=your-username&theme=tokyonight)  
 
-###
+[![Pabitra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pabitra-33/Pabitra-33/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pabitra-33/Pabitra-33/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Pabitra-33/Pabitra-33/output/pacman-contribution-graph.svg">
-</picture>
+---
 
-###
+## 📌 Featured Projects
 
+### 🔹 [Flight Booking Microservice](https://github.com/your-username/flight-booking-service)
+> Spring Boot microservice project fetching flight data from third-party API and storing in MySQL.
 
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pmpabitra339/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@pmpabitra339/0" alt="Medium post 1"  />
-  </a>
-</div>
+### 🔹 [Student Record Management System](https://github.com/your-username/student-record-system)
+> A C/C++ project with CRUD features for managing student records.
 
-###
+### 🔹 [E-commerce Full Stack App](https://github.com/your-username/ecommerce-fullstack)
+> Java Spring Boot backend with React frontend and PostgreSQL database.
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)  
+
+---
+
+## ✨ Fun Zone
+![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)  
+
+_"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
