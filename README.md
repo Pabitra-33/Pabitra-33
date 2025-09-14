@@ -85,16 +85,6 @@
 
 <br>
 
-## 📌 Featured Projects
-
-### 🔹 [Flight Booking Microservice](https://github.com/Pabitra-33/flight-booking-service)
-> Spring Boot microservice project fetching flight data from third-party API and storing in MySQL.
-
-### 🔹 [E-commerce Full Stack App](https://github.com/Pabitra-33/ecommerce-fullstack)
-> Java Spring Boot backend with React frontend and PostgreSQL database.
-
-<br><br>
-
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/pabitra-kumar1412/))  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-Pabitra-33)  
 
