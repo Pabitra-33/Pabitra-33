@@ -1,13 +1,10 @@
-![Banner](https://raw.githubusercontent.com/your-username/your-username/main/assets/banner.png)
-
-# Hi there 👋, I'm Pabitra Kumar Sahoo  
+# Hi there 👋, I'm Pabitra Kumar Sahoo
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0CF7E6&width=500&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+SQL;Problem+Solver+%7C+Lifelong+Learner;Open+Source+Contributor)](https://git.io/typing-svg)  
 
 💻 Java Full Stack Developer | 🚀 Spring Boot & React Enthusiast | 🌱 Lifelong Learner  
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat)  
-![Visitor Count](https://profile-counter.glitch.me/your-username/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=Pabitra-33&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
@@ -59,77 +56,33 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
-
-## 📊 Skills Overview (Combined Chart)
-![Combined Skills Chart](https://quickchart.io/chart?bkg=white&c={
-  type:'matrix',
-  data:{datasets:[]},
-  options:{
-    layout:{padding:20},
-    plugins:{datalabels:{display:false}},
-    charts:[
-      {
-        type:'radar',
-        data:{
-          labels:['Java','Spring Boot','React','Docker','Kubernetes','SQL'],
-          datasets:[{label:'Skill Level',data:[90,85,75,70,65,80],fill:true,backgroundColor:'rgba(54,162,235,0.2)',borderColor:'rgb(54,162,235)'}]
-        }
-      },
-      {
-        type:'bar',
-        data:{
-          labels:['Java','Spring Boot','React','SQL','Docker','Kubernetes'],
-          datasets:[{label:'Proficiency (%)',data:[90,85,80,75,70,65],backgroundColor:'rgba(255,99,132,0.6)'}]
-        },
-        options:{scales:{y:{beginAtZero:true,max:100}}}
-      },
-      {
-        type:'pie',
-        data:{
-          labels:['Backend','Frontend','Database','DevOps','Design'],
-          datasets:[{data:[40,25,15,15,5],backgroundColor:['#36A2EB','#FF6384','#FFCE56','#4BC0C0','#9966FF']}]
-        }
-      }
-    ]
-  }
-})
-
----
-
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 📊 GitHub Stats
-![Pabitra's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
+![Pabitra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pabitra-33&show_icons=true&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pabitra-33&layout=compact&theme=tokyonight)  
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=your-username&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Pabitra-33&theme=tokyonight)  
 
-[![Pabitra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+[![Pabitra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pabitra-33&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 [Flight Booking Microservice](https://github.com/your-username/flight-booking-service)
+### 🔹 [Flight Booking Microservice](https://github.com/Pabitra-33/flight-booking-service)
 > Spring Boot microservice project fetching flight data from third-party API and storing in MySQL.
 
-### 🔹 [Student Record Management System](https://github.com/your-username/student-record-system)
-> A C/C++ project with CRUD features for managing student records.
-
-### 🔹 [E-commerce Full Stack App](https://github.com/your-username/ecommerce-fullstack)
+### 🔹 [E-commerce Full Stack App](https://github.com/Pabitra-33/ecommerce-fullstack)
 > Java Spring Boot backend with React frontend and PostgreSQL database.
 
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/pabitra-kumar1412/))  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-Pabitra-33)  
 
 ---
 
