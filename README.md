@@ -81,7 +81,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pabitra-33&layout=compact&theme=tokyonight&card_width=450" alt="Top Languages" />
 </p>  
 
-<br>
+<br><br><br>
+
 [![Pabitra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pabitra-33&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 
 <br>
