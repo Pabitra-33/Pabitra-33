@@ -1,30 +1,38 @@
-# Hi there 👋, I'm Pabitra Kumar Sahoo
+<h1 align="center"> Hi there 👋, I'm Pabitra Kumar Sahoo </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0CF7E6&width=500&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+SQL;Problem+Solver+%7C+Lifelong+Learner;Open+Source+Contributor)](https://git.io/typing-svg)  
-
-💻 Java Full Stack Developer | 🚀 Spring Boot & React Enthusiast | 🌱 Lifelong Learner  
+<p align="center"> 💻 Java Full Stack Developer | 🚀 Spring Boot & React Enthusiast | 🌱 Lifelong Learner </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Pabitra-33&label=Profile%20Views&color=0e75b6&style=flat)
+<br>
+<br>
 
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0CF7E6&width=500&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+SQL;Problem+Solver+%7C+Lifelong+Learner;Open+Source+Contributor)](https://git.io/typing-svg) 
+
+<br>
 
 ## 🙋‍♂️ About Me
-- 🔭 I’m currently working on **Spring Boot Microservices & Full Stack Projects**
-- 🌱 I’m currently learning:
-  - Advanced **Spring Boot & Microservices Architecture**
-  - **React Hooks** and modern frontend patterns
-  - **Cloud Technologies** (AWS, Docker, Kubernetes)
-  - **System Design & Scalability**
-- 👯 I’m looking to collaborate on **Open Source & Java-based Full Stack projects**
-- 🤝 I’m looking for help with:
-  - Building scalable **Java Spring Boot Microservices**
-  - Best practices in **Full Stack Development (React + Spring Boot)**
-  - Exploring **Cloud Deployment (AWS, Docker, Kubernetes)**
-  - Contributing to **Open Source Java projects**
-- 💬 Ask me about **Java, Spring Boot, React, SQL, and REST APIs**
-- ⚡ Fun fact: *Turning coffee into clean, scalable code*
 
----
+- 🔭 I’m currently working on **Spring Boot Microservices & Full Stack Projects**
+  
+- 🌱 I’m currently learning:
+  - Advanced **Spring Boot & Microservices Architecture**.
+  - **React Hooks** and modern frontend patterns.
+  - **Cloud Technologies** (AWS, Docker, Kubernetes).
+  - **System Design & Scalability**.
+    
+- 👯 I’m looking to collaborate on **Open Source & Java-based Full Stack projects**.
+  
+- 🤝 I’m looking for help with:
+  - Building scalable **Java Spring Boot Microservices**.
+  - Best practices in **Full Stack Development (React + Spring Boot)**.
+  - Exploring **Cloud Deployment (AWS, Docker, Kubernetes)**.
+  - Contributing to **Open Source Java projects**.
+    
+- 💬 Ask me about **Java, Spring Boot, React, SQL, and REST APIs**.
+  
+- ⚡ Fun fact: *Turning coffee into clean, scalable code*.
+
+<br>
 
 ## 🚀 Tech Stack
 
@@ -36,6 +44,7 @@
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-4285F4?style=for-the-badge&logo=cloud&logoColor=white)
+<br><br>
 
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -43,10 +52,12 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+<br><br>
 
 ### 🛢 Database
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<br><br>
 
 ### ⚙️ DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -54,10 +65,13 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<br><br>
+
+### 💹 Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
----
+<br>
 
 ## 📊 GitHub Stats
 
