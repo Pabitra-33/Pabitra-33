@@ -3,11 +3,9 @@
 <p align="center"> 💻 Java Full Stack Developer | 🚀 Spring Boot & React Enthusiast | 🌱 Lifelong Learner </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Pabitra-33&label=Profile%20Views&color=0e75b6&style=flat)
-<br>
-<br>
+<br><br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0CF7E6&width=500&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+SQL;Problem+Solver+%7C+Lifelong+Learner;Open+Source+Contributor)](https://git.io/typing-svg) 
-
 <br>
 
 ## 🙋‍♂️ About Me
