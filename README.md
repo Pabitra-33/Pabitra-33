@@ -93,4 +93,4 @@
 ## ✨ Fun Zone
 ![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)  
 
-_"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
+<h3> _- "Code is like humor. When you have to explain it, it’s bad."_ – Cory House</h3>
