@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋, I'm Pabitra Kumar Sahoo </h1>
 
-<p align="center"> 💻 Java Full Stack Developer | 🚀 Spring Boot & React Enthusiast | 🌱 Lifelong Learner </p>
+<p align="center"> 💻 Full Stack Developer | 🚀 .Net & React Enthusiast | 🌱 Lifelong Learner </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Pabitra-33&label=Profile%20Views&color=0e75b6&style=flat)
 <br><br>
@@ -13,12 +13,13 @@
 - 🔭 I’m currently working on **Spring Boot Microservices & Full Stack Projects**
   
 - 🌱 I’m currently learning:
+  - C# Programming and .Net Framework.
   - Advanced **Spring Boot & Microservices Architecture**.
   - **React Hooks** and modern frontend patterns.
   - **Cloud Technologies** (AWS, Docker, Kubernetes).
   - **System Design & Scalability**.
     
-- 👯 I’m looking to collaborate on **Open Source & Java-based Full Stack projects**.
+- 👯 I’m looking to collaborate on **Open Source & Full Stack projects**.
   
 - 🤝 I’m looking for help with:
   - Building scalable **Java Spring Boot Microservices**.
@@ -26,7 +27,7 @@
   - Exploring **Cloud Deployment (AWS, Docker, Kubernetes)**.
   - Contributing to **Open Source Java projects**.
     
-- 💬 Ask me about **Java, Spring Boot, React, SQL, and REST APIs**.
+- 💬 Ask me about **Java, C#, .Net, Spring Boot, React, SQL, and REST APIs**.
   
 - ⚡ Fun fact: *Turning coffee into clean, scalable code*.
 
@@ -83,7 +84,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Pabitra-33&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pabitra-33&layout=compact&theme=tokyonight&card_width=450" alt="Top Languages" />
 </p>  
-
 <br><br><br>
 
 [![Pabitra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pabitra-33&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)  
