@@ -10,11 +10,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Spring Boot Microservices & Full Stack Projects**
+- 🔭 I’m currently working as a Software Engineer at Talentpace.
   
 - 🌱 I’m currently learning:
   - C# Programming and .Net Framework.
-  - Advanced **Spring Boot & Microservices Architecture**.
+  - Advanced framework and library of both fronted and backendtechnologies.
   - **React Hooks** and modern frontend patterns.
   - **Cloud Technologies** (AWS, Docker, Kubernetes).
   - **System Design & Scalability**.
@@ -22,12 +22,11 @@
 - 👯 I’m looking to collaborate on **Open Source & Full Stack projects**.
   
 - 🤝 I’m looking for help with:
-  - Building scalable **Java Spring Boot Microservices**.
-  - Best practices in **Full Stack Development (React + Spring Boot)**.
+  - Best practices in **Full Stack Development (React + .Net Framework)**.
   - Exploring **Cloud Deployment (AWS, Docker, Kubernetes)**.
   - Contributing to **Open Source Java projects**.
     
-- 💬 Ask me about **Java, C#, .Net, Spring Boot, React, SQL, and REST APIs**.
+- 💬 Ask me about **Java, C#, .Net, Spring Boot, React, SQL Server, and REST APIs**.
   
 - ⚡ Fun fact: *Turning coffee into clean, scalable code*.
 
@@ -45,9 +44,7 @@
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-4285F4?style=for-the-badge&logo=cloud&logoColor=white)
+
 <br>
 
 ### 🌐 Frontend
@@ -66,8 +63,6 @@
 ### ⚙️ DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 <br>
 
@@ -80,7 +75,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pabitra-33&theme=tokyonight" alt="GitHub Streak" />
+  <<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pabitra-33&" alt="pabitra-33" /></p>
   <img src="https://github-readme-stats.vercel.app/api?username=Pabitra-33&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pabitra-33&layout=compact&theme=tokyonight&card_width=450" alt="Top Languages" />
 </p>  
