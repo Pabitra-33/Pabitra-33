@@ -33,8 +33,9 @@
 <br>
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pabitra-kumar1412/)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pabitra-33) 
-<br><br><br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pabitra-kumar1412/)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pabitra-33) <br>
+<br>
+
 
 
 ## 🚀 Tech Stack
@@ -44,7 +45,6 @@
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
 <br>
 
 ### 🌐 Frontend
@@ -69,13 +69,12 @@
 ### 💹 Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-
 <br>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pabitra-33&" alt="pabitra-33" /></p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pabitra-33&" alt="pabitra-33" />
   <img src="https://github-readme-stats.vercel.app/api?username=Pabitra-33&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pabitra-33&layout=compact&theme=tokyonight&card_width=450" alt="Top Languages" />
 </p>  
