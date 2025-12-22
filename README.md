@@ -19,7 +19,7 @@
   - **Cloud Technologies** (AWS, Docker, Kubernetes).
   - **System Design & Scalability**.
     
-- 👯 I’m looking to collaborate on **Open Source & Full Stack projects**.
+- 👯 I’m looking to collaborate on **Open Source & Full Stack Projects**.
   
 - 🤝 I’m looking for help with:
   - Best practices in **Full Stack Development (React + .Net Framework)**.
