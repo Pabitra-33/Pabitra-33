@@ -92,7 +92,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pabitra-33&" alt="pabitra-33" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pabitra-33&" alt="Github Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=Pabitra-33&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pabitra-33&layout=compact&theme=tokyonight&card_width=450" alt="Top Languages" />
 </p>  
