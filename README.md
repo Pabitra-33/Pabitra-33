@@ -88,7 +88,17 @@
   <img src="[https://github-readme-stats.vercel.app/](https://streak-stats.demolab.com/)?user=Pabitra-33&theme=vision-friendly-dark&hide_border=false" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pabitra-33&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>  
-<br><br><br>
+<br><br>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Pabitra-33&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Pabitra-33&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br>
 
 [![Pabitra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pabitra-33&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 
