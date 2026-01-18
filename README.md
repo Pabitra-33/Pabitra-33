@@ -80,6 +80,7 @@
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
   ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
 <br>
+<br><br>
 
 ## 📊 GitHub Stats
 
@@ -90,15 +91,12 @@
 </p>  
 <br><br>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Pabitra-33&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Pabitra-33&limit=5&theme=dark&combine_all_yearly_contributions=true)
-<br>
+<img src="https://github-contributor-stats.vercel.app/api?username=Pabitra-33&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+<br><br>
 
 [![Pabitra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pabitra-33&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 
