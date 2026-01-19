@@ -93,17 +93,13 @@
 
 ### ✍️ Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-### 🔝 Top Contributed Repo
-<img src="https://github-contributor-stats.vercel.app/api?username=Pabitra-33&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 <br><br>
 
 [![Pabitra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pabitra-33&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)  
-
 <br>
 
 
 ## ✨ Fun Zone
 ![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)  
 
-<h4> _-_ "Code is like humor. When you have to explain it, it’s bad."_–_ Cory House</h4>
+<h4> "Code is like humor. When you have to explain it, it’s bad." - Cory House</h4>
